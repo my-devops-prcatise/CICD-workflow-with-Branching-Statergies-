@@ -40,4 +40,4 @@ jobs:
 
     steps:
     - name: Deploy Application
-      run: echo "🚀 Deploying application to production..."
+      run: echo "Deploying application to production"
