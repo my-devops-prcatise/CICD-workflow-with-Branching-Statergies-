@@ -2,4 +2,4 @@ def add(a, b):
     return a + b
 
 if __name__ == "__main__":
-    print("Result is: "add(2,3))
+    print(f"Result is: {add(2,3)}")
